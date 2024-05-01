@@ -1,0 +1,19 @@
+.head .wrapper img{
+    margin: 0;
+}
+
+.wrapper img{
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.wrapper .H{
+    display: flex;
+}
+.wrapper .H img:first-child{
+    margin-right: 40px;
+}
+
+.wrapper .blank{
+    margin-bottom: 50px;
+}

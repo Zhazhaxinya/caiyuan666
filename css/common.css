@@ -1,0 +1,18 @@
+.wrapper{
+    margin: 0 auto;
+    width: 1240px;
+}
+.head{
+    height: 104px;
+    border: 1px solid #d9d6d6;
+    /* background-color: pink; */
+}
+
+.head .wrapper a{
+    display: flex;
+}
+
+
+h1{
+    line-height: 100px;
+}

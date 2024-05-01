@@ -1,0 +1,225 @@
+
+
+.top{
+    margin-bottom: 50px;
+    border-bottom: 1px solid #d9d6d6;
+}
+
+.top .wrapper{
+    margin-top: 50px;
+}
+
+.top .wrapper img{
+    border-radius: 20px;
+}
+.top .wrapper h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px;
+    color: #415cf5;
+}
+
+
+
+
+
+
+.mid{
+    border-bottom: 1px solid #d9d6d6;
+}
+
+
+.mid .wrapper .an{
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 50px;
+}
+
+.mid .wrapper img{
+    border-radius: 20px;
+}
+
+
+.miaoshu h2{
+    display: block;
+    width: 600px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    margin-bottom: 250px;
+    color: rgb(97, 120, 96);
+}
+.miaoshu p{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(39, 98, 150);
+}
+
+.taomiaoshu h2{
+    display: block;
+    width: 600px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    margin-bottom: 150px;
+    color: rgb(239, 121, 85);
+}
+
+.taomiaoshu p{
+    text-align: center;
+    font-size: 150px;
+    color: rgb(181, 51, 229);
+}
+
+
+.ruimiaoshu h2{
+    display: block;
+    width: 600px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    margin-bottom: 150px;
+    color: rgb(15, 100, 246);
+}
+
+
+.ruimiaoshu p{
+    text-align: center;
+    font-size: 150px;
+    color: rgb(60, 79, 11);
+}
+
+.yanmiaoshu h2{
+    display: block;
+    width: 600px;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 100px;
+    margin-bottom: 100px;
+    color: rgb(15, 221, 248);
+}
+.yanmiaoshu p{
+    text-align: center;
+    font-size: 120px;
+    color: rgba(199, 22, 75, 0.881);
+}
+
+.maomiaoshu h2{
+    display: block;
+    width: 600px;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 100px;
+    margin-bottom: 250px;
+    color: rgb(194, 205, 195);
+}
+
+
+.maomiaoshu p{
+    text-align: center;
+    font-size: 60px;
+    color: rgba(110, 233, 53, 0.881);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.watch video{
+    border-radius: 20px;
+}
+
+
+.watch{
+    margin-top: 50px;
+}
+
+.watch .E video{
+    width: 1240px;
+    height: 698px;
+
+    margin-bottom: 50px;
+}
+.watch .T video{
+    width: 1240px;
+    height: 531px;
+    margin-bottom: 50px;
+
+
+}
+.T h3{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.watch .H{
+    display: flex;
+    justify-content: space-around;
+}
+
+.watch .H video{
+    width: 400px;
+    height: 711px;
+
+    margin-bottom: 20px;
+}
+.word1{
+    margin-bottom: 50px;
+}
+.word1 h2{
+    text-align: center;
+    color: #249349;
+    
+
+}
+
+.word2{
+    margin-bottom: 50px;
+}
+.word2 h2{
+    text-align: center;
+    color: #e3a11d;
+}
+
+.word2 p{
+    text-align: center;
+    color: #e3691d;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
